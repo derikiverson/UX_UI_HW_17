@@ -1,0 +1,62 @@
+.inline-block {
+    display:inline-block;
+    vertical-align: top;
+}
+.logo {
+    width: 23%; 
+    padding: 1%; 
+    text-align: center;
+}
+nav {
+    width: 72%;
+    padding: 1%;
+}
+nav ul {
+    width: 50%;
+    margin-left: auto;
+    padding-top: 10px;
+}
+.heroImg {
+    height: 725px;
+    padding: 25px;
+}
+.content {
+    width: 500px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+footer {
+    background-color: #373738;
+    
+}
+footer ul {
+    padding: 10px;
+    color: white;
+    vertical-align: top;
+    text-align: center;
+}
+li {
+    margin: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+#navunderline {
+    background-color: black;
+    width: 30%;
+    height: 5px;
+    margin-left: 45%;
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+p {
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+}
+button {
+    background-color: #b9b0f1;
+    font-family: Helvetica;
+    font-size: 18px;
+}
+#headshot{
+    box-shadow: #b9b0f1 -30px 15px;
+}
